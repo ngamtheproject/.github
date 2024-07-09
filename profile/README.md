@@ -10,5 +10,5 @@
 👩‍💻 Các bạn có thể liên lạc với chúng mình bằng các cách sau:
 - Website: [ngamtheproject.github.io](https://ngamtheproject.github.io)
 - Email: [ngam.theproject@gmail.com](mailto:ngam.theproject@gmail.com).
-- Facebook: [ngamtheproject](https://www.facebook.com/ngamtheproject)
+- Facebook: [ngam.theproject](https://www.facebook.com/ngam.theproject)
 - Instagram: [ngamngamnghi](https://www.instagram.com/ngamngamnghi)
